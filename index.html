@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatable" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Pranati Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+	<script src="https://kit.fontawesome.com/c4254e24a8.js" crossorigin="anonymous"></script>
+	
+</head>
+<body>
+	<div id="header">
+		<div class="container">
+			<nav>
+				<a href="index.html"><img src="images/logo.png" class="logo"></a>
+				<ul id="sidemenu">
+					<li><a href="#header">Home</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#services">Services</a></li>
+					<li><a href="#portfolio">Portfolio</a></li>
+					<li><a href="#contact">Contact</a></li>
+					<i class="fas fa-times" onClick="closemenu()"></i>
+				</ul>
+				<i class="fas fa-bars" onClick="openmenu()"></i>
+			</nav>
+			<div class="header-text">
+				<h1>Hi, I am <span>Pranati</span><br> from India</h1>
+				<p>User Experience Professional Leader (UX),</p>
+				<p>fascinated by technology, design, services </p>
+				<p>and human interaction.</p>
+				
+			</div>
+			
+		</div>
+	</div>
+	
+	<!--About section starts-->
+	<div id="about">
+		<div class="container">
+			<div class="row">
+				<div class="about-col-1">
+					<img src="images/user.png">
+				</div>
+				<div class="about-col-2">
+					<h1 class="sub-title">About Me</h1>
+					<p>I am currently working as a Design Lead-User Experience at IBM. I believe in developing simple and holistic experiences for customers and organisations through seamless technological integration. I crafts experiences which connect people in meaningful, enduring ways with products, services, and brands,through the interpretation and synthesis of research, client insight and requirements. </p>
+					<div class="tab-titles">
+						<p class="tab-links active-link" onClick="opentab('skills')">Skills</p>
+						<p class="tab-links" onClick="opentab('experience')">Experience</p>
+						<p class="tab-links" onClick="opentab('education')">Education</p>
+					</div>
+					<div class="tab-contents active-tab" id="skills">
+						<ul>
+							<li><span>UI/UX</span><br>User Interface Design, Proposal Design, Prototyping & Concept Development, Service Design, Experience Design, Enterprise Design Thinking, Quen </li>
+							<li><span>Application Designing</span><br>Responsive Application Designing</li>
+							<li><span>App Development</span><br>Builing Responsive Apps</li>
+						</ul>
+					</div>
+					<div class="tab-contents" id="experience">
+						<ul>
+							<li><span>2013 - Current</span><br>Design Lead-User Experience at IBM</li>
+							<li><span>2012 - 2013</span><br>Project Lead-UI at Nuevora Anatytics</li>
+							<li><span>0 - 0</span><br>Project Lead-UI at Sweet Interactive</li>
+							<li><span>0 - 0</span><br>Sr. Web Designer at Butler America</li>
+						</ul>
+					</div>
+					<div class="tab-contents" id="education">
+						<ul>
+							<li><span>Degree</span><br>Bachelor's Degree from Sambalpur University</li>
+							<li><span>Degree</span><br>Master's from AISECT</li>
+							<li><span>Degree</span><br>Bachelor's Degree in Fine Arts</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	<!--About section ends-->
+	
+	<!--What I do section starts-->
+	<div id="what">
+		<div class="container">
+			<div class="row">
+				
+				<div class="what-col-4">
+					<h1 class="sub-title">What I do ?</h1>
+					<p>I STRATEGISE, DESIGN AND VALIDATE EXPERIENCES & INTERACTIONS FOR PRODUCTS, SERVICES, SYSTEMS AND BRANDS.</p>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	<!--What I do section ends-->
+
+	
+	<!--Services section starts-->
+	<div id="services">
+		<div class="container">
+			<h1 class="sub-title">My Services</h1>
+			<div class="services-list">
+				<div>
+					<i class="fas fa-code"></i>
+					<h1>Featured Work</h1>
+					<h2>PostUp1</h2>
+					<p>PostUp</p>
+					<a href="#">Learn more</a>
+				</div>
+				
+				<div>
+					<i class="fas fa-crop-alt"></i>
+					<h2>UI/UX Design</h2>
+					<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.</p>
+					<a href="#">Learn more</a>
+				</div>
+				
+				<div>
+					<i class="fab fa-app-store"></i>
+					<h2>App Design</h2>
+					<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.</p>
+					<a href="#">Learn more</a>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<!--Services section ends-->
+	<!--Portfolio section starts-->
+	<div id="portfolio">
+		<div class="container">
+			<h1 class="sub-title">My Work</h1>
+			<div class="work-list">
+				<div class="work">
+					<img src="images/work-1.png"> 
+					<div class="layer">
+						<h3>PostUp</h3>
+						<p>space locator for freelancers and remote workers in Newyork.</p>
+						<p>View Case Study</p>
+						<a href="PostUp.html"><i class="fas fa-external-link-alt"></i>View</a>
+					</div>
+				</div>
+				<div class="work">
+					<img src="images/work-2.png"> 
+					<div class="layer">
+						<h3>Music App</h3>
+						<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.</p>
+						<a href="#"><i class="fas fa-external-link-alt"></i></a>
+					</div>
+
+				</div>
+				<div class="work">
+					<img src="images/work-3.png">
+					<div class="layer">
+						<h3>Online Shopping App</h3>
+						<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.</p>
+						<a href="#"><i class="fas fa-external-link-alt"></i></a>
+					</div>
+
+				</div>
+			</div>
+			<a href="#" class="btn">See More</a>
+			
+		</div>
+	</div>
+	<!--Portfolio section ends-->
+	
+	<!--Contact section ends-->
+	<div id="contact">
+		<div class="container">
+			<div class="row">
+				<div class="contact-left">
+					<h1 class="sub-title">Contact Me</h1>
+					<p><i class="fas fa-paper-plane"></i> contact@example.com</p>
+					<p><i class="fas fa-phone-square-alt"></i> 0123456789</p>
+					<div class="social-icons">
+						<a href="https://facebook.com/"><i class="fab fa-facebook"></i></a>
+						<a href=""><i class="fab fa-twitter-square"></i></a>
+						<a href=""><i class="fab fa-instagram"></i></a>
+						<a href=""><i class="fab fa-linkedin"></i></a>
+					</div>
+					<a href="images/my-cv.pdf" download class="btn btn2">Download CV</a>
+				</div>
+				<div class="contact-right">
+					<form name="submit-to-google-sheet">
+						<input type="text" name="Name" placeholder="Yor Name" required>
+						<input type="email" name="Email" placeholder="Yor Email" required>
+						<textarea name="Message" rows="6" placeholder="Yor Message"></textarea>
+						<button type="submit" class="btn btn2">Submit</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="copyright">
+			<p>2023 Copyright @ Pranati Baral. Made with <i class="fas fa-heart"></i></p>
+		</div>
+	</div>
+	<!--Contact section ends-->
+	
+	
+	<script>
+		var tablinks = document.getElementsByClassName("tab-links");
+		var tabcontents = document.getElementsByClassName("tab-contents");
+		
+		function opentab(tabname){
+			for(tablink of tablinks){
+				tablink.classList.remove("active-link");
+			}
+			
+			for(tabcontent of tabcontents){
+				tabcontent.classList.remove("active-tab");
+			}
+			event.currentTarget.classList.add("active-link");
+			document.getElementById(tabname).classList.add("active-tab");
+		}
+		
+	</script>
+	
+	<script>
+		var sidemenu = document.getElementById("sidemenu");
+		function openmenu(){
+			sidemenu.style.right = "0";
+		}
+		
+		function closemenu(){
+			sidemenu.style.right = "-200px";
+		}
+	</script>
+	
+	<script>
+	  const scriptURL = '<https://script.google.com/macros/s/AKfycbyp4_OvkMjYDJA6zcnB5EyWXHyP61qobAciNz2nd3iiqDnCi3kUnk6d17gXvzRkRukmrg/exec>'
+	  const form = document.forms['submit-to-google-sheet']
+
+	  form.addEventListener('submit', e => {
+		e.preventDefault()
+		fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+		  .then(response => console.log('Success!', response))
+		  .catch(error => console.error('Error!', error.message))
+	  })
+	</script>
+	
+</body>
+</html>
+
+
+
+
+
