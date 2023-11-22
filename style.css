@@ -367,6 +367,11 @@ nav ul li a:hover::after {
 	font-weight: 600;
 	color:#000000;	
 }
+#postup h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#000000;	
+}
 #postup p {
 	font-size: 20px;
 	font-weight: normal;
@@ -441,22 +446,156 @@ font-size: 1.8rem;
 	color:#000000;	
 }
 
-#postup-sec6 {
+#postup-sec7 {
 	padding: 20px 0;
 	color: #ababab;
 	background: #ffffff;
 }
 
-.postup-sec6-col-1 {
+.postup-sec7-col-1 {
   width: 100%;
 	height: 60vh;
-	background-image: url(images/User Persona.jpg);
+	background-image: url("images/User Persona.jpg");
 	background-size: 100% 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 	flex-shrink: 0;
 	max-width: 100%;
 }
+.postup-sec9-col-1 {
+  width: 100%;
+	height: 100vh;
+	background-image: url("images/SB Sprint - Affinity Map.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec11-col-1 {
+  width: 100%;
+	height: 70vh;
+	background-image: url("images/HMW's.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec13-col-1 {
+  width: 100%;
+	height: 90vh;
+	background-image: url("images/SB Sprint - Value Proposition Canvas.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec15-col-1 {
+  width: 100%;
+	height: 90vh;
+	background-image: url("images/SB Sprint - Impact Effort.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.postup-sec18-col-1 {
+  width: 100%;
+	height: 200vh;
+	background-image: url("images/SB Sprint - User Mapping.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.postup-sec20-col-1 {
+  width: 100%;
+	height: 90vh;
+	background-image: url("images/UI Sketches.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec23-col-1 {
+  width: 100%;
+	height: 100vh;
+	background-image: url("images/SB Sprint - Mind Map.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec25-col-1 {
+  width: 100%;
+	height: 50vh;
+	background-image: url("images/Selected Flow .png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec29-col-1 {
+  width: 100%;
+	height: 120vh;
+	background-image: url("images/SB Sprint - Wireframing.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec31-col-1 {
+  width: 100%;
+	height: 50vh;
+	background-image: url("images/Selected Flow-1.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec32-col-1 {
+  width: 100%;
+	height: 50vh;
+	background-image: url("images/Iterated Flow-2.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.postup-sec36-col-1 {
+  width: 100%;
+	height: 120vh;
+	background-image: url("images/SB Sprint - Usability Testing.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.PU-thanks {
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #06CD6D;
+    padding: 0.5rem;
+    font-weight: 800;
+}
+
+
+
 
 
 
