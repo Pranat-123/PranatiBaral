@@ -462,6 +462,24 @@ font-size: 1.8rem;
 	flex-shrink: 0;
 	max-width: 100%;
 }
+
+#postup-sec9 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#postup-sec5 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#postup-sec5 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
 .postup-sec9-col-1 {
   width: 100%;
 	height: 100vh;
@@ -595,6 +613,2550 @@ font-size: 1.8rem;
 }
 
 
+/*--------150birds---------*/
+#birds {
+	padding: 50px 0;
+	color: #ababab;
+	background: #ffeed2;
+}
+.birds-col-1{
+	flex-basis: 35%;
+}
+
+.birds-col-2 img{
+	width: 100%;
+	border-radius: 15px;		
+}
+
+.birds-col-2{
+	flex-basis: 60%;
+}
+.sub-title-150birds{
+	font-size: 60px;
+	font-weight: 600;
+	color:#fff;
+}
+#birds h1 {
+	font-size: 60px;
+	font-weight: 600;
+	color:#000;	
+}
+#birds h2 {
+	font-size: 40px;
+	font-weight: 400;
+	color:#000;	
+}
+#birds h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#birds h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#000000;	
+}
+#birds p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+#birds-sec2 {
+	padding: 80px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.birds-sec2-col-1{
+	flex-basis: 60%;
+}
+.birds-sec2-col-2{
+	flex-basis: 35%;
+}
+#birds-sec2 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#birds-sec2 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+
+#birds-sec3 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.birds-sec3-col-1{
+  	width: 100%;
+	height: 13vh;
+	background-image: url(images/Birds-Process.png);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.BD-heading2 {
+font-size: 1.8rem;
+    color: #000;
+    display: inline-block;
+    text-align: center;
+    background-color: #ffeed2;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+}
+#birds-sec5 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#birds-sec5 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;
+	text-align: left;
+}
+#birds-sec5 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;
+	text-align: left;
+}
+
+#birds-sec7 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.birds-sec7-col-1 {
+  width: 100%;
+	height: 27vh;
+	background-image: url("images/Birds-Process.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec9-col-1 {
+  width: 100%;
+	height: 100vh;
+	background-image: url("images/SB Sprint - Affinity Map.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec11-col-1 {
+  width: 100%;
+	height: 70vh;
+	background-image: url("images/HMW's.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec13-col-1 {
+  width: 100%;
+	height: 90vh;
+	background-image: url("images/SB Sprint - Value Proposition Canvas.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec15-col-1 {
+  width: 100%;
+	height: 90vh;
+	background-image: url("images/SB Sprint - Impact Effort.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.birds-sec18-col-1 {
+  width: 100%;
+	height: 28vh;
+	background-image: url("images/bird-design-system.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec18-col-2 {
+  width: 100%;
+	height: 22vh;
+	background-image: url("images/bird-pop.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+.birds-sec20-col-1 {
+  width: 100%;
+	height: 90vh;
+	background-image: url("images/bird-review.png");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec20-col-2 {
+  width: 100%;
+	height: 90vh;
+	background-image: url("images/bird-case-studies.png");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+.birds-sec23-col-1 {
+  width: 100%;
+	height: 100vh;
+	background-image: url("images/bird-framework.jpg");
+	background-size: 50% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec25-col-1 {
+  width: 100%;
+	height: 50vh;
+	background-image: url("images/Selected Flow .png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec29-col-1 {
+  width: 100%;
+	height: 55vh;
+	background-image: url("images/bird-subscription.jpg");
+	/*background-size: 60% 60%;*/
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec31-col-1 {
+  width: 100%;
+	height: 50vh;
+	background-image: url("images/Selected Flow-1.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec32-col-1 {
+  width: 100%;
+	height: 50vh;
+	background-image: url("images/Iterated Flow-2.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.birds-sec33-col-1 {
+  width: 100%;
+	height: 50vh;
+	background-image: url("images/Iterated Flow-2.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.birds-sec36-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/bird-solution.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.birds-sec37-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/bird-channel.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.birds-sec38-col-1{
+  	width: 100%;
+	height: 25vh;
+	background-image: url(images/Birds-Metrics.jpg);
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+.PU-thanks {
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #06CD6D;
+    padding: 0.5rem;
+    font-weight: 800;
+}
+.BD-thanks {
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #a17ed5;
+    padding: 0.5rem;
+    font-weight: 800;
+}
+
+
+/*--------Aroma---------*/
+#Aroma {
+	padding: 20px 0;
+	color: #ababab;
+	background: #312a2f;
+}
+
+/*.row{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;	
+}*/
+
+.Aroma-col-1{
+	flex-basis: 35%;
+}
+
+.Aroma-col-2 img{
+	width: 100%;
+	border-radius: 15px;		
+}
+
+.Aroma-col-2{
+	flex-basis: 60%;
+}
+.sub-title-Aroma{
+	font-size: 60px;
+	font-weight: 600;
+	color:#fff;
+}
+#Aroma h1 {
+	font-size: 60px;
+	font-weight: 600;
+	color:#fff;	
+}
+#Aroma h2 {
+	font-size: 40px;
+	font-weight: 400;
+	color:#fff;	
+}
+#Aroma h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Aroma h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#ffffff;	
+}
+#Aroma h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#000000;	
+}
+#Aroma p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#Aroma-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+
+#AromaDown {
+	padding: 20px 0;
+	color: #ababab;
+	background: #fdf6ef;
+}
+
+.AromaDown-col-1{
+	flex-basis: 35%;
+}
+.AromaDown-col-1 img{
+	width: 100%;
+	border-radius: 15px;
+	
+	width: 60%;
+	height: 62vh;
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.AromaDown-col-2 img{
+	width: 100%;
+	border-radius: 15px;
+}
+
+.AromaDown-col-2{
+	flex-basis: 60%;
+}
+
+.sub-title-AromaDown{
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;
+}
+#AromaDown h1 {
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#AromaDown h2 {
+	font-size: 40px;
+	font-weight: 400;
+	color:#1a1a1a;	
+}
+#AromaDown h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#AromaDown h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#AromaDown h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#1a1a1a;	
+}
+#AromaDown p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#1a1a1a;	
+}
+#AromaDown-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+
+
+
+
+
+.AR-heading2 {
+font-size: 1.8rem;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #312a2f;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+}
+
+
+
+
+#Aroma-sec2 {
+	padding: 40px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.Aroma-sec2-col-1{
+	flex-basis: 60%;
+}
+.Aroma-sec2-col-2{
+	flex-basis: 35%;
+}
+#Aroma-sec2 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Aroma-sec2 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+#Aroma-sec3 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.Aroma-sec3-col-1{
+  	width: 100%;
+	height: 20vh;
+	background-image: url(images/Aroma-Process.png);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Aroma-sec4 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.Aroma-sec4-col-1{
+  	width: 100%;
+	height: 70vh;
+	background-image: url("images/Aroma-User-Persona.png");
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+#Aroma-sec5 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.Aroma-sec5-col-1 {
+  width: 100%;
+	height: 22vh;
+	background-image: url("images/Aroma-problem-statment.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+#Aroma-sec5 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Aroma-sec5 h5 {
+	font-size: 16px;
+	font-weight: normal;
+	color:#726f6f;	
+}
+#Aroma-sec5 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+#Aroma-sec6 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.Aroma-sec6-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/Aroma-journey-map.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Aroma-sec6 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Aroma-sec6 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#Aroma-sec7 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.Aroma-sec7-col-1 {
+  width: 100%;
+	height: 70vh;
+	background-image: url("images/Aroma-User-Persona.png");
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Aroma-sec8 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.Aroma-sec8-col-1 {
+  width: 100%;
+	height: 170vh;
+	background-image: url("images/Aroma-Low-Fidelity-Wireframes.jpg");
+	background-size: 65% 70%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.img_container {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_container img {
+    width: 80%;
+    height: 80%;
+}
+
+#Aroma-sec8 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+	
+#Aroma-sec8 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#Aroma-sec9 {
+	padding: 5px 0;
+	color: #000000;
+	background: #ffffff;
+}
+
+.Aroma-sec9-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/Aroma-low-fedility-prototype.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+#Aroma-sec9 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+.Aroma-sec10-col-1 {
+  width: 100%;
+	height: 25vh;
+	background-image: url("images/Aroma-findings.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Aroma-sec12 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Aroma-sec12 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Aroma-sec12 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Aroma-sec12-col-1 {
+  width: 100%;
+	height: 135vh;
+	background-image: url("images/Aroma-design-system-sticker.jpg");
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.Aroma-sec12-col-2 {
+  width: 100%;
+	height: 150vh;
+	background-image: url("images/Aroma-High-Fidelity-Wireframes.jpg");
+	background-size: 90% 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 0px;
+}
+
+
+#Aroma-sec13 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Aroma-sec13 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Aroma-sec13 h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Aroma-sec13 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Aroma-sec13-col-1 {
+  width: 100%;
+	height: 135vh;
+	background-image: url("images/Aroma-design-system-sticker.jpg");
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+#Aroma-sec15 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Aroma-sec15 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Aroma-sec15 h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Aroma-sec15 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Aroma-sec15-col-1 {
+  width: 100%;
+	height: 52vh;
+	background-image: url("images/Aroma-Accessibility.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Aroma-sec17 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Aroma-sec17 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Aroma-sec17 h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Aroma-sec17 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Aroma-sec17-col-1 {
+  width: 100%;
+	height: 45vh;
+	background-image: url("images/Aroma-Next.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+
+
+
+
+.AR-thanks {
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #06CD6D;
+    padding: 0.5rem;
+    font-weight: 800;
+}
+
+
+
+/*--------Banking---------*/
+#Banking {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+	background-image: url("images/Hero-BG.png");
+}
+
+/*.row{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;	
+}*/
+
+.Banking-col-1{
+	flex-basis: 35%;
+}
+
+.Banking-col-2 img{
+	width: 100%;
+	border-radius: 15px;		
+}
+
+.Banking-col-2{
+	flex-basis: 60%;
+}
+.sub-title-Banking{
+	font-size: 60px;
+	font-weight: 600;
+	color:#e33124;
+}
+#Banking h1 {
+	font-size: 60px;
+	font-weight: 600;
+	color:#e33124;	
+}
+#Banking h2 {
+	font-size: 40px;
+	font-weight: 400;
+	color:#000000;	
+}
+#Banking h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#e33124;	
+}
+#Banking h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#e33124;	
+}
+#Banking h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#e33124;	
+}
+#Banking p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#Banking-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+
+#BankingDown {
+	padding: 20px 0;
+	color: #000;
+	background: #fdf6ef;
+}
+
+.BankingDown-col-1{
+	flex-basis: 35%;
+}
+.BankingDown-col-1 img{
+	width: 100%;
+	border-radius: 15px;
+	width: 60%;
+	height: 62vh;
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.BankingDown-col-2 img{
+	width: 100%;
+	border-radius: 15px;
+}
+
+.BankingDown-col-2{
+	flex-basis: 60%;
+}
+
+.sub-title-BankingDown{
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;
+}
+#BankingDown h1 {
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#BankingDown h2 {
+	font-size: 40px;
+	font-weight: 400;
+	color:#1a1a1a;	
+}
+#BankingDown h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#BankingDown h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#BankingDown h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#1a1a1a;	
+}
+#BankingDown p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#1a1a1a;	
+}
+#BankingDown-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+.BN-heading2 {
+font-size: 1.8rem;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #ef0000;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+}
+
+.BN-imgheading {
+	font-size: 1.8rem;
+    color: #000;
+    display: inline-block;
+    text-align: center;
+    background-color: #fff;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: solid 1px #eeeeee;
+	border-bottom: solid 1px #eeeeee;
+}
+
+
+#Banking-sec2 {
+	padding: 40px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.Banking-sec2-col-1{
+	flex-basis: 60%;
+}
+.Banking-sec2-col-2{
+	flex-basis: 35%;
+}
+#Banking-sec2 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Banking-sec2 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+
+#Banking-sec3 {
+	padding: 20px 0;
+	color: #000;
+	background: #ffffff;
+}
+.Banking-sec3-col-1{
+	flex-basis: 60%;	
+}
+.Banking-sec3-col-2{
+	flex-basis: 35%;
+	
+	width: 100%;
+	height: 43vh;
+	background-image: url(images/Banking-design-think.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 40px;
+}	
+#Banking-sec3 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+
+#Banking-sec4 {
+	padding: 20px 0;
+	color: #000;
+	background: #ffffff;
+}
+.Banking-sec4-col-1{
+  	width: 100%;
+	height: 30vh;
+	background-image: url("images/Banking-Process.png");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+#Banking-sec5 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.Banking-sec5-col-1 {
+  width: 100%;
+	height: 25vh;
+	background-image: url("images/Banking-Process-hub.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+
+#Banking-sec5 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Banking-sec5 h5 {
+	font-size: 16px;
+	font-weight: normal;
+	color:#726f6f;	
+}
+#Banking-sec5 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+#Banking-sec6 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #e33124;
+}
+
+.Banking-sec6-col-1 {
+  flex-basis: 60%;
+}
+
+.Banking-sec6-col-2{
+	flex-basis: 35%;
+	width: 100%;
+	height: 22vh;
+	background-image: url(images/Banking-Design-Language.jpg);
+	background-size: 50% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 5vh;
+}
+.Banking-sec6-col-3{
+	flex-basis: 35%;
+	width: 100%;
+	height: 22vh;
+	background-image: url(images/Banking-design-toolkit.png);
+	background-size: 50% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 5vh;
+}
+.Banking-sec6-col-4{
+	flex-basis: 35%;
+	width: 100%;
+	height: 22vh;
+	background-image: url(images/banking-design-speci.jpg);
+	background-size: 50% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 5vh;
+}
+
+#Banking-sec6 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000;	
+}
+#Banking-sec6 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#fff;	
+}
+
+#Banking-sec7 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.Banking-sec7-col-1 {
+  width: 100%;
+	height: 85vh;
+	background-image: url("images/banking-learnings.png");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Banking-sec7 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000;	
+}
+#Banking-sec7 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+#Banking-sec8 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.Banking-sec8-col-1 {
+  width: 100%;
+	height: 170vh;
+	background-image: url("images/Banking-Low-Fidelity-Wireframes.jpg");
+	background-size: 65% 70%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.img_container {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_container img {
+    width: 80%;
+    height: 80%;
+}
+
+#Banking-sec8 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+	
+#Banking-sec8 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#Banking-sec9 {
+	padding: 5px 0;
+	color: #000000;
+	background: #ffffff;
+}
+
+.Banking-sec9-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/Banking-low-fedility-prototype.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+#Banking-sec9 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+.Banking-sec10-col-1 {
+  width: 100%;
+	height: 25vh;
+	background-image: url("images/Banking-findings.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Banking-sec12 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Banking-sec12 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Banking-sec12 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Banking-sec12-col-1 {
+  width: 100%;
+	height: 135vh;
+	background-image: url("images/Banking-design-system-sticker.jpg");
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.Banking-sec12-col-2 {
+  width: 100%;
+	height: 150vh;
+	background-image: url("images/Banking-High-Fidelity-Wireframes.jpg");
+	background-size: 90% 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 0px;
+}
+
+
+#Banking-sec13 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Banking-sec13 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Banking-sec13 h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Banking-sec13 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Banking-sec13-col-1 {
+  width: 100%;
+	height: 135vh;
+	background-image: url("images/Banking-design-system-sticker.jpg");
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+#Banking-sec15 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Banking-sec15 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Banking-sec15 h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Banking-sec15 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Banking-sec15-col-1 {
+  width: 100%;
+	height: 52vh;
+	background-image: url("images/Banking-Accessibility.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#Banking-sec17 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+#Banking-sec17 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+#Banking-sec17 h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#Banking-sec17 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+.Banking-sec17-col-1 {
+  width: 100%;
+	height: 45vh;
+	background-image: url("images/Banking-Next.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+.BN-thanks {
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #06CD6D;
+    padding: 0.5rem;
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+/*--------GS---------*/
+#GS {
+	color: #ababab;
+	background: #061403;
+	background-image: url("images/GS-Hero-BG.jpg");
+	
+	height: 40vh;
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+/*.row{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;	
+}*/
+
+.GS-col-1{
+	flex-basis: 100%;
+}
+.GS-col-2{
+	flex-basis: 50%;
+}
+
+.GS-col-2 img{
+	width: 100%;
+	border-radius: 15px;		
+}
+
+.sub-title-GS{
+	font-size: 60px;
+	font-weight: 600;
+	color:#e33124;
+}
+#GS h1 {
+	font-size: 50px;
+	font-weight: 300;
+	color:#fff;	
+}
+#GS h2 {
+	font-size: 30px;
+	font-weight: 200;
+	color:#fff;	
+}
+#GS h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#e33124;	
+}
+#GS h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#e33124;	
+}
+#GS h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#e33124;	
+}
+#GS p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#GS-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+
+#GSDown {
+	padding: 20px 0;
+	color: #000;
+	background: #fdf6ef;
+}
+
+.GSDown-col-1{
+	flex-basis: 35%;
+}
+.GSDown-col-1 img{
+	width: 100%;
+	border-radius: 15px;
+	width: 60%;
+	height: 62vh;
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.GSDown-col-2 img{
+	width: 100%;
+	border-radius: 15px;
+}
+
+.GSDown-col-2{
+	flex-basis: 60%;
+}
+
+.sub-title-GSDown{
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;
+}
+#GSDown h1 {
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#GSDown h2 {
+	font-size: 40px;
+	font-weight: 400;
+	color:#1a1a1a;	
+}
+#GSDown h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#GSDown h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#GSDown h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#1a1a1a;	
+}
+#GSDown p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#1a1a1a;	
+}
+#GSDown-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+.GS-heading2 {
+font-size: 1.8rem;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #105425;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+}
+
+.GS-imgheading {
+	font-size: 1.8rem;
+    color: #105425;
+    display: inline-block;
+    text-align: center;
+    background-color: #fff;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: solid 1px #eeeeee;
+	border-bottom: solid 1px #eeeeee;
+}
+
+
+#GS-sec2 {
+	padding: 40px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.GS-sec2-col-1{
+	flex-basis: 60%;
+}
+.GS-sec2-col-2{
+	flex-basis: 35%;
+}
+#GS-sec2 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#105425;	
+}
+#GS-sec2 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+
+#GS-sec3 {
+	padding: 20px 0;
+	color: #000;
+	background: #ffffff;
+}
+.GS-sec3-col-1{
+	flex-basis: 60%;	
+}
+.GS-sec3-col-2{
+	flex-basis: 35%;
+	
+	width: 100%;
+	height: 43vh;
+	background-image: url(images/GS-design-think.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 40px;
+}
+#GS-sec3 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#105425;	
+}
+
+#GS-sec3 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+
+#GS-sec4 {
+	padding: 20px 0;
+	color: #000;
+	background: #e1fae6;
+}
+.GS-sec4-col-1{
+  	width: 100%;
+	height: 80vh;
+	background-image: url("images/GS-Process.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.GS-sec4-col-2{
+  	width: 100%;
+	height: 80vh;
+	background-image: url("images/Banking-what-we-do.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+#GS-sec4 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#105425;
+	
+	Padding-top: 5vh;
+}
+
+#GS-sec4 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+
+#GS-sec5 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #e1fae6;
+}
+
+.GS-sec5-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/Banking-what-we-do.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+
+#GS-sec5 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#GS-sec5 h5 {
+	font-size: 16px;
+	font-weight: normal;
+	color:#726f6f;	
+}
+#GS-sec5 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+#GS-sec6 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #fff;
+}
+
+.GS-sec6-col-1 {
+  flex-basis: 40%;
+}
+
+.GS-sec6-col-2{
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/GS-Design-Roadmap.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 10vh;
+}
+.GS-sec6-col-3{
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/GS-Design-Roadmap.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 10vh;
+}
+.GS-sec6-col-4{
+	 flex-basis: 40%;
+}
+
+#GS-sec6 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#184043;	
+}
+#GS-sec6 h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#184043;
+	padding-bottom: 0px;
+}
+#GS-sec6 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+	padding-top: 0px;
+}
+
+
+#GS-sec6B {
+	padding: 5px 0;
+	color: #ababab;
+	background: #fff;
+}
+
+.GS-sec6B-col-1 {
+	
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/GS-Design-Guidelines.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 4vh;
+}
+
+.GS-sec6B-col-2{
+	 flex-basis: 40%;
+}
+.GS-sec6B-col-4 {
+	
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/GS-Design-Review.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 4vh;
+}
+
+#GS-sec6B h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#184043;	
+}
+#GS-sec6B h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#184043;
+	padding-bottom: 0px;
+}
+#GS-sec6B p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+	padding-top: 0px;
+}
+
+
+#GS-sec7 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #F4F4F4;
+}
+
+.GS-sec7-col-1 {
+  width: 100%;
+	height: 85vh;
+	background-image: url("images/GS-learnings.png");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#GS-sec7 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000;	
+}
+#GS-sec7 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+#GS-sec8 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.GS-sec8-col-1 {
+  width: 100%;
+	height: 170vh;
+	background-image: url("images/GS-Low-Fidelity-Wireframes.jpg");
+	background-size: 65% 70%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.img_container {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_container img {
+    width: 80%;
+    height: 80%;
+}
+
+#GS-sec8 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+	
+#GS-sec8 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#GS-sec9 {
+	padding: 5px 0;
+	color: #000000;
+	background: #ffffff;
+}
+
+.GS-sec9-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/GS-low-fedility-prototype.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+#GS-sec9 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+.GS-sec10-col-1 {
+  width: 100%;
+	height: 25vh;
+	background-image: url("images/GS-findings.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+.BN-thanks {
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #06CD6D;
+    padding: 0.5rem;
+    font-weight: 800;
+}
+
+
+
+
+
+/*--------VISUAL---------*/
+#VISUAL {
+	color: #ababab;
+	background: #061403;
+	background-image: url("images/Visual-BG.jpg");
+	height: 40vh;
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+/*.row{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;	
+}*/
+
+.VISUAL-col-1{
+	flex-basis: 100%;
+}
+.VISUAL-col-2{
+	flex-basis: 50%;
+}
+
+.VISUAL-col-2 img{
+	width: 100%;
+	border-radius: 15px;		
+}
+
+.sub-title-VISUAL{
+	font-size: 60px;
+	font-weight: 600;
+	color:#e33124;
+}
+#VISUAL h1 {
+	font-size: 50px;
+	font-weight: 300;
+	color:#fff;	
+}
+#VISUAL h2 {
+	font-size: 30px;
+	font-weight: 200;
+	color:#fff;	
+}
+#VISUAL h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#0F62FE;	
+}
+#VISUAL h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#0F62FE;	
+}
+#VISUAL h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#0F62FE;	
+}
+#VISUAL p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#VISUAL-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+
+#VISUALDown {
+	padding: 20px 0;
+	color: #000;
+	background: #fdf6ef;
+}
+
+.VISUALDown-col-1{
+	flex-basis: 35%;
+}
+.VISUALDown-col-1 img{
+	width: 100%;
+	border-radius: 15px;
+	width: 60%;
+	height: 62vh;
+	background-size: 75% 75%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.VISUALDown-col-2 img{
+	width: 100%;
+	border-radius: 15px;
+}
+
+.VISUALDown-col-2{
+	flex-basis: 60%;
+}
+
+.sub-title-VISUALDown{
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;
+}
+#VISUALDown h1 {
+	font-size: 60px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#VISUALDown h2 {
+	font-size: 40px;
+	font-weight: 400;
+	color:#1a1a1a;	
+}
+#VISUALDown h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#VISUALDown h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#1a1a1a;	
+}
+#VISUALDown h5 {
+	font-size: 14px;
+	font-weight: 300;
+	color:#1a1a1a;	
+}
+#VISUALDown p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#1a1a1a;	
+}
+#VISUALDown-sec-name {
+	padding: 20px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+
+.VISUAL-heading2 {
+font-size: 1.8rem;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #0F62FE;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+}
+
+.VISUAL-imgheading {
+	font-size: 3rem;
+    color: #4500B7;
+    display: inline-block;
+    text-align: center;
+    background-color: #fff;
+    padding: 0.5rem;
+    font-weight: 800;
+    margin-top: 0rem;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: solid 1px #eeeeee;
+	border-bottom: solid 1px #eeeeee;
+}
+
+
+#VISUAL-sec2 {
+	padding: 40px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+.VISUAL-sec2-col-1{
+	flex-basis: 60%;
+}
+.VISUAL-sec2-col-2{
+	flex-basis: 35%;
+}
+#VISUAL-sec2 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#0F62FE;	
+}
+#VISUAL-sec2 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+
+#VISUAL-sec3 {
+	padding: 20px 0;
+	color: #000;
+	background: #ffffff;
+}
+.VISUAL-sec3-col-1{
+	flex-basis: 60%;	
+}
+.VISUAL-sec3-col-2{
+	flex-basis: 35%;
+	
+	width: 100%;
+	height: 43vh;
+	background-image: url(images/VISUAL-design-think.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 40px;
+}
+#VISUAL-sec3 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#0F62FE;	
+}
+
+#VISUAL-sec3 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+
+#VISUAL-sec4 {
+	padding: 20px 0;
+	color: #000;
+	background: #F4F4F4;
+}
+.VISUAL-sec4-col-1{
+  	width: 100%;
+	height: 40vh;
+	background-image: url("images/Visual-portal-flow.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.VISUAL-sec4-col-2{
+  	width: 100%;
+	height: 120vh;
+	background-image: url("images/Visual-Associates-Layouts.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+.VISUAL-sec4-col-3{
+  	width: 100%;
+	height: 90vh;
+	background-image: url("images/Visual-Associate-UAT.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#VISUAL-sec4 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#0F62FE;
+	
+	Padding-top: 5vh;
+}
+
+#VISUAL-sec4 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+
+#VISUAL-sec5 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #e1fae6;
+}
+
+.VISUAL-sec5-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/Banking-what-we-do.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+
+#VISUAL-sec5 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+#VISUAL-sec5 h5 {
+	font-size: 16px;
+	font-weight: normal;
+	color:#726f6f;	
+}
+#VISUAL-sec5 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+
+#VISUAL-sec6 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #fff;
+}
+
+.VISUAL-sec6-col-1 {
+  flex-basis: 40%;
+}
+
+.VISUAL-sec6-col-2{
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/Visual-key-points.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 10vh;
+}
+.VISUAL-sec6-col-3{
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/VISUAL-Design-Roadmap.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 10vh;
+}
+.VISUAL-sec6-col-4{
+	 flex-basis: 40%;
+}
+
+#VISUAL-sec6 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#0F62FE;	
+}
+#VISUAL-sec6 h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#0F62FE;
+	padding-bottom: 0px;
+}
+#VISUAL-sec6 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+	padding-top: 0px;
+}
+
+
+#VISUAL-sec6B {
+	padding: 5px 0;
+	color: #ababab;
+	background: #fff;
+}
+
+.VISUAL-sec6B-col-1 {
+	
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/VISUAL-Design-Guidelines.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 4vh;
+}
+
+.VISUAL-sec6B-col-2{
+	 flex-basis: 40%;
+}
+.VISUAL-sec6B-col-4 {
+	
+	flex-basis: 55%;
+	width: 100%;
+	height: 50vh;
+	background-image: url("images/VISUAL-Design-Review.jpg");
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+	margin-top: 4vh;
+}
+
+#VISUAL-sec6B h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#184043;	
+}
+#VISUAL-sec6B h4 {
+	font-size: 16px;
+	font-weight: 600;
+	color:#184043;
+	padding-bottom: 0px;
+}
+#VISUAL-sec6B p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+	padding-top: 0px;
+}
+
+
+#VISUAL-sec7 {
+	padding: 20px 0;
+	color: #ababab;
+	background: #F4F4F4;
+}
+
+.VISUAL-sec7-col-1 {
+  width: 100%;
+	height: 85vh;
+	background-image: url("images/VISUAL-learninVisual.png");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+#VISUAL-sec7 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#0F62FE;	
+}
+#VISUAL-sec7 p {
+	font-size: 16px;
+	font-weight: normal;
+	color:#000;	
+}
+
+#VISUAL-sec8 {
+	padding: 5px 0;
+	color: #ababab;
+	background: #ffffff;
+}
+
+.VISUAL-sec8-col-1 {
+  width: 100%;
+	height: 170vh;
+	background-image: url("images/VISUAL-Low-Fidelity-Wireframes.jpg");
+	background-size: 65% 70%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+.img_container {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_container img {
+    width: 80%;
+    height: 80%;
+}
+
+#VISUAL-sec8 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+	
+#VISUAL-sec8 p {
+	font-size: 20px;
+	font-weight: normal;
+	color:#000000;	
+}
+
+#VISUAL-sec9 {
+	padding: 5px 0;
+	color: #000000;
+	background: #ffffff;
+}
+
+.VISUAL-sec9-col-1 {
+  width: 100%;
+	height: 80vh;
+	background-image: url("images/VISUAL-low-fedility-prototype.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+#VISUAL-sec9 h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color:#000000;	
+}
+
+.VISUAL-sec10-col-1 {
+  width: 100%;
+	height: 25vh;
+	background-image: url("images/VISUAL-findinVisual.jpg");
+	background-size: 80% 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	flex-shrink: 0;
+	max-width: 100%;
+}
+
+
+.BN-thanks {
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #06CD6D;
+    padding: 0.5rem;
+    font-weight: 800;
+}
 
 
 
@@ -742,26 +3304,6 @@ nav .fas{
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
